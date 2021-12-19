@@ -30,7 +30,7 @@ If you want to install them all, execute this command:
 
 **1.** README.md - This file. This is the guide for the rest of the project :D
 **2.** SO_survey_analysis.ipynb - This is the notebook containing the code used to the questions mentioned above 
-and the plots in [my post on Medium](https://duckduckgo.com)
+and the plots in [my post on Medium](https://medium.com/@paulockoff/helping-brazilian-tech-professionals-to-understand-what-to-expect-in-terms-of-salary-f25e9e9ce990)
 **3.** survey_results_public_2019.csv - CSV file containing the answers from the 2019 StackOverflow survey
 **4.** survey_results_public_2020.csv - CSV file containing the answers from the 2020 StackOverflow survey
 **5.** survey_results_public_2021.csv - CSV file containing the answers from the 2021 StackOverflow survey
